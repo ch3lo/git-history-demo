@@ -1,3 +1,3 @@
 # git-history-demo
 
-a b c
+a b c d
